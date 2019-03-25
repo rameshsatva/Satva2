@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg</name>
+   <tag></tag>
+   <comment> Free Plan method
+ Cloud Plan method</comment>
+   <testCaseGuid>3fff7387-c770-4167-9261-176ca3cdcfc8</testCaseGuid>
+</TestCaseEntity>

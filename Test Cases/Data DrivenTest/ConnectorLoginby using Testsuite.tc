@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ConnectorLoginby using Testsuite</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a7e4ccd-b1b9-4abb-95f8-8d6c1c076945</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d8c63a6e-1d34-49d4-aa45-86c8e4e00b86</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9993dd4c-a354-4a88-8aca-822ab647d037</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

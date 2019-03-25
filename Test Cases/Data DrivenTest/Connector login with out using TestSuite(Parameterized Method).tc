@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Connector login with out using TestSuite(Parameterized Method)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44ceadfa-6a6e-47cc-b207-fd40d8612736</testCaseGuid>
+</TestCaseEntity>
