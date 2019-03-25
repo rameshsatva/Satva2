@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>1Registerlink</name>
+   <tag></tag>
+   <elementGuidId>c4d62757-cae9-45f9-9f3a-8e51f48d3410</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;header-area&quot;]/div/div[1]/div/div/div[3]/div/div/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;header-area&quot;]/div/div[1]/div/div/div[3]/div/div/ul/li[4]/a</value>
+   </webElementProperties>
+</WebElementEntity>
