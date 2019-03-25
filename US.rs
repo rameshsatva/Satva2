@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>US</name>
+   <tag></tag>
+   <elementGuidId>d6e0db00-b528-469b-96de-c4084454173f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@value=&quot;https://demo.nopcommerce.com/changecurrency/6?returnurl=%2Fregister&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//select[@value=&quot;https://demo.nopcommerce.com/changecurrency/6?returnurl=%2Fregister&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
