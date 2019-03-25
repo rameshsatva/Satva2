@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mobile Number cannot be l</name>
+   <tag></tag>
+   <elementGuidId>6056695e-730a-423e-a8d3-711bc6463e91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div/section[2]/form/div[6]/div[2]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;wrapper&quot;)/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content container-fluid custom_contain&quot;]/form[@class=&quot;form-horizontal form_contain&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 col-xs-12&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-xs-12&quot;]/span[@class=&quot;field-validation-error&quot;][count(. | //span[@class = 'field-validation-error' and @data-valmsg-for = 'Mobile' and @data-valmsg-replace = 'true' and (text() = 'Mobile Number cannot be longer than 15 characters.' or . = 'Mobile Number cannot be longer than 15 characters.')]) = count(//span[@class = 'field-validation-error' and @data-valmsg-for = 'Mobile' and @data-valmsg-replace = 'true' and (text() = 'Mobile Number cannot be longer than 15 characters.' or . = 'Mobile Number cannot be longer than 15 characters.')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>field-validation-error</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-valmsg-for</name>
+      <type>Main</type>
+      <value>Mobile</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-valmsg-replace</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mobile Number cannot be longer than 15 characters.</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content container-fluid custom_contain&quot;]/form[@class=&quot;form-horizontal form_contain&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 col-xs-12&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-xs-12&quot;]/span[@class=&quot;field-validation-error&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//div[@id='wrapper']/div/section[2]/form/div[6]/div[2]/div/div/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile No'])[1]/following::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Office Number'])[1]/following::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Satva Solutions.'])[1]/preceding::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//div[6]/div[2]/div/div/span</value>
+   </webElementXpaths>
+</WebElementEntity>

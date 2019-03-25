@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>3.Remberme</name>
+   <tag></tag>
+   <elementGuidId>09be9644-3493-406a-8db6-3d6915987fba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;loginForm&quot;]/form/div[3]/div/div/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;loginForm&quot;]/form/div[3]/div/div/label/div</value>
+   </webElementProperties>
+</WebElementEntity>

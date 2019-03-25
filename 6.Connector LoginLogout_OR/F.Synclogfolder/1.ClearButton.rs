@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>1.ClearButton</name>
+   <tag></tag>
+   <elementGuidId>cc61ce8a-1ad4-4305-96ca-b6702c72e9d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;wrapper&quot;]/div/section[2]/form/div/div[7]/div/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;wrapper&quot;]/div/section[2]/form/div/div[7]/div/div/div[2]/a</value>
+   </webElementProperties>
+</WebElementEntity>
