@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Datadriven</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient>ramesh6061994@gmail.com;</mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>20</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>3aa3c36d-a267-4327-871a-f13a270faab5</testSuiteGuid>
+   <testCaseLink>
+      <guid>df776011-5d0c-4c9b-9b7e-6ffc02d7e580</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Data DrivenTest/ConnectorLoginby using Testsuite</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d8c63a6e-1d34-49d4-aa45-86c8e4e00b86</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9993dd4c-a354-4a88-8aca-822ab647d037</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
