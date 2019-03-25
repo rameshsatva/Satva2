@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpointone</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Registration</source-url>
+   </source-info>
+   <taken-date>2019-02-15T19:18:49.728</taken-date>
+   <column-names>
+      <column-name>Email</column-name>
+      <column-name>First Name</column-name>
+      <column-name>Last Name</column-name>
+      <column-name>Company Name</column-name>
+      <column-name>Contact No</column-name>
+      <column-name>Password</column-name>
+      <column-name>Confirm password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "vvv@getnada.com",
+      "checked": true
+    },
+    {
+      "value": "Virendra",
+      "checked": true
+    },
+    {
+      "value": "Singh",
+      "checked": true
+    },
+    {
+      "value": "SatvaSolutions",
+      "checked": true
+    },
+    {
+      "value": "9000603631",
+      "checked": true
+    },
+    {
+      "value": "Satva1213#",
+      "checked": true
+    },
+    {
+      "value": "Satva1213#",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "sram@getnada.com",
+      "checked": true
+    },
+    {
+      "value": "Raju",
+      "checked": true
+    },
+    {
+      "value": "Singh",
+      "checked": true
+    },
+    {
+      "value": "Satvasolutions",
+      "checked": true
+    },
+    {
+      "value": "9000603361",
+      "checked": true
+    },
+    {
+      "value": "Satva1213#",
+      "checked": true
+    },
+    {
+      "value": "Satva1213#",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Ram1@gmail.com",
+      "checked": true
+    },
+    {
+      "value": "ram",
+      "checked": true
+    },
+    {
+      "value": "singh",
+      "checked": true
+    },
+    {
+      "value": "Satva",
+      "checked": true
+    },
+    {
+      "value": "9000603631",
+      "checked": true
+    },
+    {
+      "value": "Satva123",
+      "checked": true
+    },
+    {
+      "value": "Satva",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
